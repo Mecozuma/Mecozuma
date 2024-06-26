@@ -1,16 +1,23 @@
-## Hi there 👋
+# George Keough
+<img src= 
+## Experience
+* JavaScript
+* HTML
+* CSS
+* [Java] (https://oracle.com)
 
-<!--
-**Mecozuma/Mecozuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. red
+2. green
+3. blue
 
-Here are some ideas to get you started:
+   # Table
+Color | RGB | Comment
+------|-----|--------
+red | 0xff0000 | don't like it
+blue | 0x00ff00 | kinda like it
+green | 0x0000ff | my color
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+karlllarson/karlllarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
